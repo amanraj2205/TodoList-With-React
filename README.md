@@ -7,6 +7,7 @@ A simple and responsive Todo List application built using **React**, **Vite**, a
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
+- Edit tasks
 - Persistent state using local storage
 - Responsive design for mobile and desktop
 
