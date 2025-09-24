@@ -21,9 +21,7 @@ A simple and responsive Todo List application built using **React**, **Vite**, a
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/todo-list-react-vite.git
-   cd todo-list-react-vite](https://github.com/amanraj2205/TodoList-With-React.git)
-
+   https://github.com/amanraj2205/TodoList-With-React.git
 2. Install dependencies
   ```bash
 npm i
